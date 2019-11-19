@@ -2062,6 +2062,7 @@
         "nodejs8.10",
         "nodejs10.x",
         "java8",
+        "java11",
         "python2.7",
         "python3.6",
         "python3.7",

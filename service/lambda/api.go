@@ -9514,6 +9514,9 @@ const (
 	// RuntimeJava8 is a Runtime enum value
 	RuntimeJava8 = "java8"
 
+	// RuntimeJava11 is a Runtime enum value
+	RuntimeJava11 = "java11"
+
 	// RuntimePython27 is a Runtime enum value
 	RuntimePython27 = "python2.7"
 
